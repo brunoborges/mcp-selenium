@@ -45,3 +45,6 @@ npm-debug.log*
 geckodriver.log
 chromedriver.log
 .goose/
+
+# Backup files during refactoring
+src/lib/server-original.js
